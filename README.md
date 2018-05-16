@@ -1,1 +1,2 @@
 # discord-tos
+This is for tracking changes to Discord's ToS/Privacy Policy and for being able to see the changes relatively easily in a diff. If you notice there's an update to the terms that I missed, feel free to make a pull request or, if you don't know how, open an issue to let me know.
